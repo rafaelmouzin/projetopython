@@ -19,6 +19,12 @@ try:
 
     if num1 == 1:
         print("Você escolheu Fluxo de Caixa.")
+        print("""
+Agora, escolha entre entrada e saida:
+
+1 - Entrada
+2 - Saída
+""")
         
     elif num1 == 2:
         print(".")
